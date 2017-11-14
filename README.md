@@ -1,0 +1,3 @@
+# Basic Python Web Server
+
+Built this with the help of Ruslan Spivak's [tutorial](https://ruslanspivak.com/lsbaws-part1/) so that I can have a deeper understanding of how servers work in the context of web frameworks. A web server is a networking server that sits on a physical server and waits for a client to send a request. When it receives a request, it generates a response and sends it back to the client. The communication between a client and a server happens using HTTP protocol. A client can be your browser or any other software that speaks HTTP.  
